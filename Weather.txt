@@ -1,0 +1,1 @@
+The Current Temperature in California is 70 degrees F.
