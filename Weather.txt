@@ -7,4 +7,4 @@ It is Sunny.
 
 California:
 
-Tues 73 Degrees. Wed 78 Degrees. Thurs 75 Degrees. Friday 71 Degrees.
+Tues 73 Degrees, Sunny. Wed 78 Degrees, Sunny. Thurs 75 Degrees, Sparse Clouds. Friday 71 Degrees, Sunny.
