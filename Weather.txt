@@ -7,4 +7,4 @@ It is Sunny.
 
 IDaho:
 
-Tues 5 Degrees. Wed 6 Degrees. Thurs 6 Degrees. Friday -3 Degrees.
+Tues 5 Degrees, Cloudy. Wed 6 Degrees, Cloudy. Thurs 6 Degrees, Mostly Cloudy. Friday -3 Degrees, Snowing.
