@@ -1,6 +1,14 @@
+Utah:
 The Current Temperature in Utah is 30 degrees F.
 It is snowing.
+Tues 31 Degrees, Cloudy. Wed 32 Degrees, Mostly Cloudy. Thurs 45 Degrees, Clear Skies. Friday 47 Degrees, Chance of Showers.
+
+IDaho:
 The current temperature in Idaho is 0 degrees F.
 It is Cloudy.
+Tues 5 Degrees, Cloudy. Wed 6 Degrees, Cloudy. Thurs 6 Degrees, Mostly Cloudy. Friday -3 Degrees, Snowing.
+
+California:
 The Current Temperature in California is 70 degrees F.
 It is Sunny.
+Tues 73 Degrees, Sunny. Wed 78 Degrees, Sunny. Thurs 75 Degrees, Sparse Clouds. Friday 71 Degrees, Sunny.
