@@ -1,0 +1,2 @@
+The Current Temperature in Utah is 30 degrees F.
+It is snowing.
