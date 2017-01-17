@@ -4,3 +4,7 @@ The current temperature in Idaho is 0 degrees F.
 It is Cloudy.
 The Current Temperature in California is 70 degrees F.
 It is Sunny.
+
+IDaho:
+
+Tues 5 Degrees. Wed 6 Degrees. Thurs 6 Degrees. Friday -3 Degrees.
