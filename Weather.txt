@@ -7,4 +7,4 @@ It is Sunny.
 
 Utah:
 
-Tues 31 Degrees. Wed 32 Degrees. Thurs 45 Degrees. Friday 47 Degrees.
+Tues 31 Degrees, Cloudy. Wed 32 Degrees, Mostly Cloudy. Thurs 45 Degrees, Clear Skies. Friday 47 Degrees, Chance of Showers.
